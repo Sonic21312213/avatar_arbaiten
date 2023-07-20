@@ -1,0 +1,35 @@
+li {
+    list-style-type: none
+}
+
+
+a {
+    color:#fff;
+    text-decoration: none;
+}
+
+.header_menu a:hover {
+    color: #94CFFF;
+}
+
+.header_menu {
+    background: url('../../img/bag.png') center/cover no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header_menu .hello {
+
+    border-bottom: 1234px solid #691414;
+    background: rgba(0, 0, 0, 0.87);
+}
+
+
+
+
+.header_menu {
+    display: flex;
+    justify-content:center ;
+    gap: 38px;
+    
+}

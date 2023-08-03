@@ -1,0 +1,28 @@
+.many_people {
+    top: 965px;
+    position: absolute;
+    right: 600px;
+}
+
+
+.many_people h1 {
+    color: #0A3853;
+text-align: justify;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.many_people h2 {
+    color: #0A3853;
+text-align: justify;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+right: 100px;
+}

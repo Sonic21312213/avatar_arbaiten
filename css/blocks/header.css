@@ -1,0 +1,65 @@
+.header_list a {
+    color: #FFFFFF;
+    font-size: large
+}
+
+.header_list a:hover {
+    color: #94CFFF
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header_list {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.header_left {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+
+}
+
+
+
+.header {
+    background: url(../../img/bag.png) center/cover no-repeat;
+
+}
+
+.header_overlay {
+    border-bottom: 3px solid #FFF;
+    background: rgba(43, 74, 97, 0.87);
+    padding: 39px 0px;
+    height: 150px;
+}
+
+
+.btn_header {
+    border-radius: 45px 0px;
+    border: 3px solid #26C7EA;
+    width: 141px;
+    height: 41.694px;
+    flex-shrink: 0;
+    border: 3px solid #26C7EA;
+    background: #0B0E66;
+    position: absolute;
+    left: 1234px;
+}
+
+
+.btn_header a {
+    width: 65px;
+    height: 25px;
+    color: #26C6EA;
+}
+
+
+

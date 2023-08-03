@@ -1,0 +1,84 @@
+.promo_btn {
+    display: flex;
+    justify-content: center;
+    border-radius: 45px 0px;
+    border: 3px solid #26C7EA;
+    background: #0B0E66;
+    width: 260px;
+    height: 80px;
+    flex-shrink: 0;
+    
+    top: 620px;
+    left: 204px;
+    position: absolute;
+      
+}
+
+.promo_btn a {
+    color: #26C7EA;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+
+.promo {
+    background: url(../../img/bag2.png), lightgray 50% / cover no-repeat;
+    width: 1440px;
+    height: 740px;
+    flex-shrink: 0;
+}
+
+
+.arrow {
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+}
+
+
+.text_ua {
+    position: absolute;
+    top: 466px;
+    left: 204px;
+    
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_avatar {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: normal;
+    position: absolute;
+    top: 330px;
+    left: 204px;
+
+}
+
+
+.arrow {
+    width: 152px;
+    height: 40px;
+    top: 444px;
+    left: 257px;
+    border: 1px;
+    position: absolute;
+}
+
+
+
+
+
+.promomage {
+    position: flex;
+    justify-content: left;
+}
